@@ -15,5 +15,6 @@
     },
     "autoload": {
         "classmap": ["src/"]
-    }
+    },
+    "abandoned": "redbitcz/debug-mode-enabler"
 }
